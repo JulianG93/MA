@@ -1,0 +1,9 @@
+2.3.0.preparation.do
+2.3.0.xlists.do
+2.3.0.ylists.do
+2.3.1.outliers.do
+2.3.2.impute.do
+2.3.3.secorder.do
+*.log #log-files sollen ignoriert werden
+README.md.txt
+# Kommentare im Gitignorefile müssen immer in neue Zeile und nicht in selbe Zeile hinter ein zu ignorierendes file!

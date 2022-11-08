@@ -8,8 +8,8 @@ set more off
 ** RUN SETTINGS **
 clear
 // cd "/Users/`c(username)'/Dropbox/Research/DFG_FOR576/3. Research/Rice Insurance/2. STATA/do" // Old directory
-cd "\\tsclient\C\Users\Julian\Desktop\Thesis\Rice_Long_Term_Originaldateien\2. STATA\do\_Juliane alt" // Changed cd to my directory
-macro drop _all
+cd "\\tsclient\C\Users\Julian\Desktop\Thesis\Rice_Long_Term_Bearbeitung\2. STATA\do\_Juliane alt" // Changed cd to my directory
+macro drop _all // Alle Makros werden gelöscht, damit potentielle alte noch vorhandene Macros nicht zu Problemen führen
 // do 2.1.settings.do Add 09.11.: Not needed as the settings are in the master.do-file                 
 
 
